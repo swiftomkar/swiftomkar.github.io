@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Biomedical Engineering, University of Mumbai, 2017
+* M.S. in Computr Engineering, Stevens Institute of Technology, 2019
+* Ph.D in Computer Science, Syracuse University, 2023 (expected)
 
 Work experience
 ======
