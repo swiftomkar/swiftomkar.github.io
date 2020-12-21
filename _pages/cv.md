@@ -72,6 +72,6 @@ Talks
   
 Service and leadership
 ======
-* Contributer at Apache Airflow [github.com/apache/airflow]. See my [Pull Requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aswiftomkar+)
-* Contributer at iovisor bcc [github.com/iovisor/bcc]. See my [Pull Requests](https://github.com/iovisor/bcc/pulls?q=is%3Apr+author%3Aswiftomkar+)
+* Contributer at Apache Airflow (https://github.com/apache/airflow). See my [Pull Requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aswiftomkar+)
+* Contributer at iovisor bcc (https://github.com/iovisor/bcc). See my [Pull Requests](https://github.com/iovisor/bcc/pulls?q=is%3Apr+author%3Aswiftomkar+)
 
