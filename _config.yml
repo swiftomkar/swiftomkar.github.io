@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Omkar Desai"
 title_separator          : "-"
 name                     : &name "Omkar Desai"
-description              : &description "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab"
+description              : &description "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in the Computer Science Department"
 url                      : https://swiftomkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swiftomkar/swiftomkar.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Omkar Desai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in the Computer Science Department"
   location         : "Syracuse, New York"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "odesai@syr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -99,10 +99,10 @@ author:
   github           : "swiftomkar"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "swiftomkar"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/omkar-desai"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
