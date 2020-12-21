@@ -17,15 +17,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant : August 2020 - Present
+  * Storage Systems Research. Currently working on NSF grant – CPR for Flash-Based Storage Systems under Prof. Bryan Kim.
+  * Studying big data Key Value databases like LevelDB, RocksDB, Redis in depth in order to advance the database field.
+  * Researching ways to make distributed storage more resilient and intelligent to understand heterogeneity and ageing of SSDs.
+  * Developing an open source tool for remote monitoring of storage devices like SSD’s to study their Performance and Reliability.
+  * Supervisor: [Professor Bryan Kim](https://sites.google.com/view/bryansjkim/home?authuser=0)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software & Data Engineer : June 2019 - September 2020
+  * Developed and maintained the user behavior and events ingestion pipeline that forms the backbone of Data Analytics, Machine Learning and powers the Recommendations infrastructure at practo.com.
+  * Worked on bringing in depth visibility on the production Kubernetes cluster using Prometheus, Grafana
+  * Deployed and maintained Apache Airflow on Kubernetes in a novel configuration; Wrote in house libraries & deployment
+automations.
+  * Developed ETL workflows for massive data cleaning operations; trained the business analytics teams on ETL (Extract Transform
+Load)
+  * Managed a multi-terabyte, production, database cluster for efficient data analysis, built data visualization tools for analysts.
+  * Supervisor: Abhinav Lal, CEO, Practo Technologies
   
 Skills
 ======
