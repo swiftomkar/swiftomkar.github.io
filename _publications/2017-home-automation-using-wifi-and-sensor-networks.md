@@ -1,7 +1,7 @@
 ---
 title: "Home Automation Using Wi-Fi and Sensor Networks"
 collection: publications
-permalink: /publication/2017-home_automation_using_wifi_and_sensor_networks
+permalink: /publication/2017-home-automation-using-wifi-and-sensor-networks
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-10-01
 venue: 'DJSCE Technofocus'
