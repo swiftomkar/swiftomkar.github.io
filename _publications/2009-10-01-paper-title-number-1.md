@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Home Automation Using Wi-Fi and Sensor Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2017-home_automation_using_wifi_and_sensor_networks
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2017-10-01
+venue: 'DJSCE Technofocus'
+paperurl: 'http://swiftomkar.github.io/files/HomeAutomation.pdf'
+citation: 'Your Name, You. (2009). &quot;Home Automation Using Wi-Fi and Sensor Networks&quot; <i>Technofocus</i>. ISSN:2321-0532.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper is a part of an undergraduate Academic project on Internet of Things
+[Download paper here](http://academicpages.github.io/files/HomeAutomation.pdf)

@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Omkar Desai"
   avatar           : "profile.jpg"
-  bio              : "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in the Computer Science Department"
+  bio              : "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in
+  the Computer Science Department at Syracuse University"
   location         : "Syracuse, New York"
   employer         :
   pubmed           : ""
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "omkar-desai"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
