@@ -10,5 +10,4 @@ location: "Syracuse, New York"
 
 I spoke about the work done by [Prof. Bianca Schroder's group](http://www.cs.toronto.edu/~bianca/) 
 in collaboration with NetApp at the University of Toronto.
-
 [Slides](http://academicpages.github.io/files/largeScale_NetApp_study.pdf) 
