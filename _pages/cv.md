@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+### [Click here to view the pdf version](https://swiftomkar.github.io/files/omkar_desai_s21_2.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, Syracuse University, 2023 (expected)
