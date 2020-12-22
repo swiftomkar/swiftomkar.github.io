@@ -6,7 +6,9 @@ excerpt: 'This paper is a part of an undergraduate Academic project on Internet 
 date: 2017-10-01
 venue: 'DJSCE Technofocus'
 paperurl: 'http://swiftomkar.github.io/files/HomeAutomation.pdf'
-citation: 'Your Name, You. (2009). &quot;Home Automation Using Wi-Fi and Sensor Networks&quot; <i>Technofocus</i>. ISSN:2321-0532.'
+citation: 'Your Name, You. (2009). &quot;Home Automation Using Wi-Fi and Sensor Networks&quot; <i> DJSCE Technofocus</i>. ISSN:2321-0532.'
 ---
 This paper is a part of an undergraduate Academic project on Internet of Things
 [Download paper here](http://academicpages.github.io/files/HomeAutomation.pdf)
+
+Recommended citation: Bhatt Parth, Desai Omkar. (2017). "Home Automation Using Wi-Fi and Sensor Networks." DJSCE Technofocus. ISSN:2321-0532.
