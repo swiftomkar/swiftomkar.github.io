@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Omkar Desai - About"
+title: "Omkar Desai - PhD student in Computer Science working on Data Storage Systems"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
