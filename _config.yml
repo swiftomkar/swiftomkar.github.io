@@ -86,7 +86,6 @@ author:
   the Computer Science Department at Syracuse University"
   location         : "Syracuse, New York"
   employer         :
-  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=ZlrurpQAAAAJ&hl=en&authuser=1"
   email            : "odesai@syr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -110,7 +109,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "omkarbdesai"
   vine             :
   weibo            :
   xing             :
