@@ -13,4 +13,4 @@ I spoke about the work done by
 from the [DSAIL lab](http://dsail.csail.mit.edu/) at MIT 
 on using Machine Learning to dramatically improve 
 query performance of Databases.
-[Slides](http://academicpages.github.io/files/Alex-sept18-20.pdf) 
+[Slides](http://swiftomkar.github.io/files/Alex-sept18-20.pdf) 
