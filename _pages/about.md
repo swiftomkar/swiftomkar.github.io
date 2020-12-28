@@ -15,7 +15,7 @@ I am interested in computer systems with a particular focus on data storage syst
 
 News
 ======
-* Year 2020 in code - 1000 contributions on github! Stay safe and keep committing
+* Year 2020 in code: >1000 contributions on github! Stay safe and keep committing.
 * Project [DeuceDB](https://github.com/swiftomkar/leveldb-triad) - Improving background I/O scheduling of LevelDB and dynamically adapt to changing workload conditions to improve performance in persistent Key Value stores. 
 * Working on persistent key value databases like LevelDB and RocksDB.
 * Working on an NSF funded project - "CPR for Flash-Based Storage Systems" that explores a variable capacity interface for Flash Based SSDs to ensure consistent performance.
