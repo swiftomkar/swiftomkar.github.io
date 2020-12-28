@@ -12,4 +12,4 @@ I spoke about the work done by our group on improving background I/O performance
 [Slides](http://swiftomkar.github.io/files/DeuceDB_project3_CIS700.pdf)
 
 Our code for the project is available at https://github.com/swiftomkar/leveldb-triad
-Collaborators - Xiangqun Zhang, Ziyang Jiao
+Project Collaborators - Xiangqun Zhang, Ziyang Jiao
