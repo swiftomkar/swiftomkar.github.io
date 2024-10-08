@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### [Click here to view the pdf version](https://github.com/swiftomkar/swiftomkar.github.io/blob/master/files/odesai_resume_sept24.pdf)
-
+### [Click here to view the pdf version](files/odesai_resume_sept24.pdf)
 
 Education
 ======
