@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Syracuse University, 2023 (expected)
+* Ph.D in Computer Science, Syracuse University, 2025 (expected)
 * M.S. in Computr Engineering, Stevens Institute of Technology, 2019
 * B.E. in Biomedical Engineering, University of Mumbai, 2017
 
