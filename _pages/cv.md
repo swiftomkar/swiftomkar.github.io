@@ -9,79 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-### [Click here to view the pdf version](files/odesai_resume_apr14_26.pdf)
+### [Click here to view the PDF version](files/odesai_resume_apr14_26.pdf)
 
 Education
 ======
-* Ph.D in Computer Science, Syracuse University, 2025 (expected)
-* M.S. in Computr Engineering, Stevens Institute of Technology, 2019
+* Ph.D. in Computer Science, Syracuse University, Expected July 2026
+* M.S. in Computer Engineering, Stevens Institute of Technology, 2019
 * B.E. in Biomedical Engineering, University of Mumbai, 2017
 
 
-Work experience
+Work Experience
 ======
-* **Research Assistant, S4Lab, Syarcuse University**        August 2020 - Present
-  * Storage Systems Research. Currently working on NSF grant – [CPR for Flash-Based Storage Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008453) under [Prof. Bryan Kim](https://sites.google.com/view/bryansjkim/home?authuser=0).
-  * Studying big data Key Value databases like LevelDB, RocksDB, Redis in depth in order to advance the database field.
-  * Researching ways to make distributed storage more resilient and intelligent to understand heterogeneity and ageing of SSDs.
-  * Developing an open source tool for remote monitoring of storage devices like SSD’s to study their Performance and Reliability.
-  * Supervisor: [Professor Bryan Kim](https://sites.google.com/view/bryansjkim/home?authuser=0)
+* **Research Assistant, S4 Lab, Syracuse University** — August 2020 – Present
+  * Researching storage and I/O systems for large-scale ML workloads under [Prof. Bryan Kim](https://sites.google.com/view/bryansjkim/home), supported by NSF grant [CPR for Flash-Based Storage Systems](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008453).
+  * Built **Seneca** (FAST '26): a data preprocessing system for ML training that decouples preparation from training epochs, eliminating I/O bottlenecks and improving end-to-end GPU utilization.
+  * Built **Cicero** (EuroMLSys '26): a cost-efficient training and checkpointing framework for large models on preemptible cloud VMs.
+  * Developed an open-source remote monitoring tool for SSDs to study performance and reliability under production workloads.
+  * Studied key-value stores (LevelDB, RocksDB) at depth, contributing to advances in background I/O scheduling and storage-level indexing.
 
-* **Software & Data Engineer, Practo Technologies**       June 2019 - September 2020
-  * Developed and maintained the user behavior and events ingestion pipeline that forms the backbone of Data Analytics, Machine Learning and powers the Recommendations infrastructure at practo.com.
-  * Worked on bringing in depth visibility on the production Kubernetes cluster using Prometheus, Grafana
-  * Deployed and maintained Apache Airflow on Kubernetes in a novel configuration; Wrote in house libraries & deployment
-automations.
-  * Developed ETL workflows for massive data cleaning operations; trained the business analytics teams on ETL (Extract Transform
-Load)
-  * Managed a multi-terabyte, production, database cluster for efficient data analysis, built data visualization tools for analysts.
-  * Supervisor: Abhinav Lal, CEO, Practo Technologies
-  
-* **Software Engineering Intern, Delos Labs, Delos Living**       June 2019 - September 2020
-  * Designed and implemented a cloud native system for a cloud connected IoT platform.
-  * Working with an R&D team at Delos Labs, my work included designing and building cloud-based infra and IoT tools to build an
-indoor wellness ecosystem.
-  * Developed a data pipeline to record data from a heterogenous set of wearables and Environmental sensors (1000 data pts/hr).
-This forms the backbone of the POC and research evaluation efforts at the R&D lab to create advanced models of human stress and sleep. This data also powers the Machine learning efforts in home automation.
+* **Research Intern, Samsung Semiconductor** — San Jose, CA — May–August 2022
+  * Designed and prototyped a task management system for computational storage devices, resulting in US Patent 12,411,630 (granted September 2025).
+  * Worked with the Advanced Memory Lab on near-storage compute architectures.
+
+* **Research Intern, Samsung Semiconductor** — San Jose, CA — May–August 2021
+  * Designed a two-level indexing architecture for key-value persistent storage devices, resulting in US Patent 11,954,345 (granted April 2024).
+  * Prototyped the design on Samsung's key-value SSD platform and evaluated performance against baseline KV-SSD implementations.
+
+* **Software & Data Engineer, Practo Technologies** — June 2019 – September 2020
+  * Owned the user behavior and events ingestion pipeline — the backbone of data analytics, ML, and recommendations infrastructure at India's largest telemedicine platform.
+  * Deployed and maintained Apache Airflow on Kubernetes; wrote in-house libraries and deployment automation used across the data engineering team.
+  * Brought deep visibility into the production Kubernetes cluster using Prometheus and Grafana.
+  * Managed a multi-terabyte production database cluster; built data visualization tools for business analysts.
+
+* **Software Engineering Intern, Delos Living** — New York, NY — May–December 2018
+  * Designed and built a cloud-native IoT platform for Delos Labs' indoor wellness research program.
+  * Developed a data pipeline ingesting from a heterogeneous set of wearables and environmental sensors (~1,000 data points/hour), powering ML models for human stress and sleep research.
+
 
 Skills
 ======
-* Core
-  * Systems Engineering 
-  * Operating Systems
-  * Databases 
-  * Distributed Systems
-  * Data engineering
-  * Flash based storage
-  * IoT
-* Language Expertise 
-  * C
-  * C++
-  * Python
-  * Java
-* Systems
-  * Unix File Systems, RAID, NVMe 
-  * LevelDB, RocksDB 
-  * Kubernetes, Nginx 
-  * Apache 
-    * Airflow 
-    * Kafka 
-    * Hadoop
+* **Research Areas:** Storage Systems, ML Infrastructure & I/O, Key-Value Stores, Distributed Systems, Flash-Based SSDs, Operating Systems
+* **Languages:** C, C++, Python, Java
+* **Storage & Databases:** LevelDB, RocksDB, NVMe/KV-SSD, Unix File Systems, RAID
+* **Infrastructure:** Kubernetes, Docker, Prometheus, Grafana, Nginx
+* **Data Engineering:** Apache Airflow, Apache Kafka, Apache Hadoop, Redis
+* **Tools:** eBPF/BCC, fio, blktrace, Git
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Contributer at Apache Airflow (https://github.com/apache/airflow). See my [Pull Requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aswiftomkar+)
-* Contributer at iovisor bcc (https://github.com/iovisor/bcc). See my [Pull Requests](https://github.com/iovisor/bcc/pulls?q=is%3Apr+author%3Aswiftomkar+)
 
+
+Service and Leadership
+======
+* Reviewer, [ACM Transactions on Storage (TOS)](https://dl.acm.org/journal/tos)
+* Artifact Evaluation Reviewer, [USENIX NSDI 2026](https://www.usenix.org/conference/nsdi26)
+* Artifact Evaluation Reviewer, [USENIX FAST 2025](https://www.usenix.org/conference/fast25)
+* Contributor to [Apache Airflow](https://github.com/apache/airflow) — see [pull requests](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Aswiftomkar+)
+* Contributor to [iovisor/bcc](https://github.com/iovisor/bcc) — see [pull requests](https://github.com/iovisor/bcc/pulls?q=is%3Apr+author%3Aswiftomkar+)

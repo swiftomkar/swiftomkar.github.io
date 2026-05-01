@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Omkar Desai"
 title_separator          : "-"
 name                     : &name "Omkar Desai"
-description              : &description "Omkar Desai - PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in the Computer Science Department"
+description              : &description "Omkar Desai - PhD Candidate in Computer Science | Storage & ML Systems Research | Graduating July 2026"
 url                      : https://swiftomkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "swiftomkar/swiftomkar.github.io"
@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Omkar Desai"
   avatar           : "profile.jpg"
-  bio              : "PhD Student and researcher at The Syracuse Sustainable Storage Systems Lab in
-  the Computer Science Department at Syracuse University"
+  bio              : "PhD Candidate in Computer Science at Syracuse University. Storage & ML systems researcher. Graduating July 2026."
   location         : "Syracuse, New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ZlrurpQAAAAJ&hl=en&authuser=1"
-  email            : "odesai@syr.edu"
+  email            : "omkarbdesai@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

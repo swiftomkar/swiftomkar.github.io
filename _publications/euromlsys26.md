@@ -5,7 +5,7 @@ permalink: /publication/euromlsys26_cicero
 date: 2026-04-27
 venue: "6th Workshop on Machine Learning and Systems (EuroMLSys '26)"
 paperurl: 'https://euromlsys.eu/'
-citation: "TODO: Update with full ACM citation once published in the ACM Digital Library."
+citation: "Omkar Desai, Shuyi Pei, Janki Bhimani, and Bryan S. Kim. 2026. Cost-Efficient Training and Checkpointing for Large Models on Preemptible Cloud VMs. In Proceedings of the 6th Workshop on Machine Learning and Systems (EuroMLSys '26)."
 ---
 [Download paper here](https://euromlsys.eu/)
-Recommended citation: TODO: Update with full ACM citation once published in the ACM Digital Library.
+Recommended citation: Omkar Desai, Shuyi Pei, Janki Bhimani, and Bryan S. Kim. 2026. Cost-Efficient Training and Checkpointing for Large Models on Preemptible Cloud VMs. In Proceedings of the 6th Workshop on Machine Learning and Systems (EuroMLSys '26).
