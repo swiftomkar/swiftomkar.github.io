@@ -1,3 +1,4 @@
+---
 title: "Preparation meets opportunity: enhancing data preprocessing for ML training with Seneca"
 collection: publications
 permalink: /publication/fast26_seneca
